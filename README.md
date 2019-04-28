@@ -10,4 +10,5 @@ A new Flutter widget that add support for AndroidTV app. Using keyboard to contr
 
 ## Demo
 
-![2019-04-28 16.24.30](images/2019-04-28 16.24.30.gif)
+![](https://github.com/IAMSUPERMONKEY/flutter_tv_autofocus/blob/master/images/2019-04-28%2016.24.30.gif?raw=true)
+
