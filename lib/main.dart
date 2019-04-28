@@ -42,7 +42,7 @@ class MyStatelessWidget extends StatelessWidget {
         child: Container(
           width: 100,
           height: 100,
-          child: Center(child: Text('A AufoFocus Node')),
+          child: Center(child: Text('An AufoFocus Node')),
         ),
       ),
     ));

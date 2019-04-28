@@ -1,16 +1,13 @@
-# flutter_tv_autofocus
+#  flutter_tv_autofocus
 
-A new Flutter application.
+A new Flutter widget that add support for AndroidTV app. Using keyboard to control focus node.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Wrap your flutter page with AutoFocusContainer
+2. Wrap your widget that need a focus with AutoFocus
+3. If your AutoFocus is in a widget which is subclass of ScrollView,you must pass a ScrollController with it
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![2019-04-28 16.24.30](images/2019-04-28 16.24.30.gif)
